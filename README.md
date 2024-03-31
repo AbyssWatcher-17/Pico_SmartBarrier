@@ -47,6 +47,6 @@ For Detailed Version look at here
 * Software
   * Upload MixAllPico.py to Raspberry Pi Pico and rename it main.py using Thonny IDE -> https://thonny.org/
 
-Note: All COntributions will be welcomed.Don't Forget to give star :)
+Note: All Contributions will be welcomed.Don't Forget to give star :)
 
 
